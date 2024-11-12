@@ -7,7 +7,7 @@
 	</listeners>
 
 
-	<test thread-count="2" name="Test_Chrome" parallel="false">
+	<test thread-count="2" name="Test_Chrome" parallel="classes">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<!-- <class name="easyshop.SearchFieldWithCategoryTest" /> -->
@@ -20,7 +20,7 @@
 		</classes>
 	</test> <!-- Test -->
 
-	<test thread-count="2" name="Test_Edge" parallel="false">
+	<test thread-count="2" name="Test_Edge" parallel="classes">
 		<parameter name="browser" value="edge" />
 		<classes>
 			<!-- <class name="easyshop.SearchFieldWithCategoryTest" /> -->
