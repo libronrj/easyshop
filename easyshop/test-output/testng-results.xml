@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[===============Connected The Database===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Disconnected The Database===============]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-12T11:35:54 IST" name="Default suite" finished-at="2024-11-12T11:36:04 IST" duration-ms="9142">
+    <groups>
+    </groups>
+    <test started-at="2024-11-12T11:35:54 IST" name="Default test" finished-at="2024-11-12T11:36:04 IST" duration-ms="9142">
+      <class name="easyshop.ProceedToCheckoutTest">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:35:54 IST" name="setupSuite" finished-at="2024-11-12T11:35:54 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Connected The Database===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:35:54 IST" name="setupClass" finished-at="2024-11-12T11:35:56 IST" duration-ms="1339" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:35:56 IST" name="setupMethod" finished-at="2024-11-12T11:36:00 IST" duration-ms="3931" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="proceedToCheckoutTest()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:00 IST" name="proceedToCheckoutTest" finished-at="2024-11-12T11:36:03 IST" duration-ms="3517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckoutTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:03 IST" name="tearDownMethod" finished-at="2024-11-12T11:36:03 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:03 IST" name="tearDownClass" finished-at="2024-11-12T11:36:04 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:04 IST" name="tearDownSuite" finished-at="2024-11-12T11:36:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Disconnected The Database===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- easyshop.ProceedToCheckoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
