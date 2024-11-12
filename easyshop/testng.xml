@@ -10,7 +10,7 @@
 	<test thread-count="2" name="Test_Chrome" parallel="classes">
 		<parameter name="browser" value="chrome" />
 		<classes>
-		
+			<class name="easyshop.SearchFieldWithCategoryTest" />
 			<class name="easyshop.EditProfileTest" />
 			<class name="easyshop.LoginTest" />
 			<class name="easyshop.SearchFieldWithProductTest" />
@@ -23,7 +23,7 @@
 	<test thread-count="2" name="Test_Edge" parallel="classes">
 		<parameter name="browser" value="edge" />
 		<classes>
-	
+			<class name="easyshop.SearchFieldWithCategoryTest" />
 			<class name="easyshop.EditProfileTest" />
 			<class name="easyshop.LoginTest" />
 			<class name="easyshop.SearchFieldWithProductTest" />
