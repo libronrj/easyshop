@@ -2,7 +2,9 @@ package easyshop.baseclass;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
@@ -53,10 +55,18 @@ public class BaseClass {
 		switch (browserInstance) {
 		case "chrome":
 			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver();
+			ChromeOptions chromeOptions = new ChromeOptions();
+			chromeOptions.addArguments("--headless"); // Enable headless mode
+			chromeOptions.addArguments("--no-sandbox"); // Bypass OS security model
+			chromeOptions.addArguments("--disable-dev-shm-usage"); // Overcome limited resource problems
+			driver = new ChromeDriver(chromeOptions);
 			break;
 		case "edge":	
-			driver = new EdgeDriver();
+			EdgeOptions edgeOptions = new EdgeOptions();
+	        edgeOptions.addArguments("--headless"); // Enable headless mode
+	        edgeOptions.addArguments("--no-sandbox"); // Bypass OS security model
+	        edgeOptions.addArguments("--disable-dev-shm-usage"); // Overcome limited resource problems
+			driver = new EdgeDriver(edgeOptions);
 			break;
 		default:
 			System.err.println("Invalid browser");
