@@ -3,6 +3,7 @@ package easyshop.genericutility;
 import java.time.Duration;
 import java.util.Set;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -88,12 +89,14 @@ public class WebDriverUtility {
 
 	public void switchToAlertAndAccept(WebDriver driver) {
 
-		driver.switchTo().alert().accept();
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.alertIsPresent()).accept();
 	}
 
 	public void switchToAlertAndDismiss(WebDriver driver) {
 
-		driver.switchTo().alert().dismiss();
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.alertIsPresent()).dismiss();
 	}
 
 	public void select(WebElement element, String text) {
