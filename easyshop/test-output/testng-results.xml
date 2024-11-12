@@ -11,6 +11,9 @@
       <![CDATA[===============Logged into Page===============]]>
     </line>
     <line>
+      <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+    </line>
+    <line>
       <![CDATA[===============Logged out of Page===============]]>
     </line>
     <line>
@@ -20,19 +23,19 @@
       <![CDATA[===============Disconnected The Database===============]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-11-12T11:35:54 IST" name="Default suite" finished-at="2024-11-12T11:36:04 IST" duration-ms="9142">
+  <suite started-at="2024-11-12T16:13:49 IST" name="Default suite" finished-at="2024-11-12T16:13:57 IST" duration-ms="8288">
     <groups>
     </groups>
-    <test started-at="2024-11-12T11:35:54 IST" name="Default test" finished-at="2024-11-12T11:36:04 IST" duration-ms="9142">
+    <test started-at="2024-11-12T16:13:49 IST" name="Default test" finished-at="2024-11-12T16:13:57 IST" duration-ms="8288">
       <class name="easyshop.ProceedToCheckoutTest">
-        <test-method is-config="true" signature="setupSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:35:54 IST" name="setupSuite" finished-at="2024-11-12T11:35:54 IST" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:49 IST" name="setupSuite" finished-at="2024-11-12T16:13:49 IST" duration-ms="7" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Connected The Database===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- setupSuite -->
-        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:35:54 IST" name="setupClass" finished-at="2024-11-12T11:35:56 IST" duration-ms="1339" status="PASS">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:49 IST" name="setupClass" finished-at="2024-11-12T16:13:50 IST" duration-ms="847" status="PASS">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -44,32 +47,35 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupClass -->
-        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:35:56 IST" name="setupMethod" finished-at="2024-11-12T11:36:00 IST" duration-ms="3931" status="PASS">
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:50 IST" name="setupMethod" finished-at="2024-11-12T16:13:53 IST" duration-ms="2630" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Logged into Page===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- setupMethod -->
-        <test-method signature="proceedToCheckoutTest()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:00 IST" name="proceedToCheckoutTest" finished-at="2024-11-12T11:36:03 IST" duration-ms="3517" status="PASS">
+        <test-method signature="proceedToCheckoutTest()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:53 IST" name="proceedToCheckoutTest" finished-at="2024-11-12T16:13:56 IST" duration-ms="3349" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+            </line>
           </reporter-output>
         </test-method> <!-- proceedToCheckoutTest -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:03 IST" name="tearDownMethod" finished-at="2024-11-12T11:36:03 IST" duration-ms="230" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:56 IST" name="tearDownMethod" finished-at="2024-11-12T16:13:56 IST" duration-ms="327" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Logged out of Page===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:03 IST" name="tearDownClass" finished-at="2024-11-12T11:36:04 IST" duration-ms="95" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:56 IST" name="tearDownClass" finished-at="2024-11-12T16:13:57 IST" duration-ms="1109" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Terminated The Browser===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T11:36:04 IST" name="tearDownSuite" finished-at="2024-11-12T11:36:04 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:57 IST" name="tearDownSuite" finished-at="2024-11-12T16:13:57 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Disconnected The Database===============]]>
