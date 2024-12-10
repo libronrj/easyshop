@@ -3,17 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="easyshop.ProceedToCheckoutTest">
+      <class name="easyshop.ProductDescriptionTest">
         <methods>
           <include name="setupClass"/>
+          <include name="productDescriptionTest"/>
           <include name="tearDownClass"/>
-          <include name="proceedToCheckoutTest"/>
           <include name="tearDownMethod"/>
           <include name="setupMethod"/>
           <include name="setupSuite"/>
           <include name="tearDownSuite"/>
         </methods>
-      </class> <!-- easyshop.ProceedToCheckoutTest -->
+      </class> <!-- easyshop.ProductDescriptionTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

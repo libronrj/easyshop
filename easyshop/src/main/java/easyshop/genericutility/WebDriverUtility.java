@@ -3,7 +3,6 @@ package easyshop.genericutility;
 import java.time.Duration;
 import java.util.Set;
 
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -114,7 +113,7 @@ public class WebDriverUtility {
 	public void mouseMoveOnElement(WebDriver driver, WebElement element) {
 
 		Actions actions = new Actions(driver);
-		actions.moveToElement(element).perform();
+		actions.moveToElement(element).click().perform();
 	}
 
 	public void doubleClick(WebDriver driver, WebElement element) {
@@ -144,5 +143,6 @@ public class WebDriverUtility {
 		javascriptExecutor.executeScript("arguments[0].scrollIntoView(true)", element);
 		
 		return this;
+		
 	}
 }

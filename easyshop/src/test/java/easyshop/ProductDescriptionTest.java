@@ -1,12 +1,13 @@
 package easyshop;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 import easyshop.baseclass.BaseClass;
 import easyshop.objectrepository.HomePage;
-import easyshop.objectrepository.ProductCategoryPage;
 import easyshop.objectrepository.ProductDetailsPage;
 
 /*
@@ -25,11 +26,12 @@ public class ProductDescriptionTest extends BaseClass {
 	public void productDescriptionTest() {
 
 		HomePage homepage = new HomePage(driver);
-		homepage.searchField(excelutility.getCellData("search", 1, 0));
+		String product = excelutility.getCellData("search", 1, 0);
+		homepage.searchField(product);
 		homepage.clickSearchButton();
-
-		ProductCategoryPage productcategorypage = new ProductCategoryPage(driver);
-		webdriverutility.javascriptExecutorClick(driver, productcategorypage.getProductlink());
+		
+		WebElement searchedProduct = driver.findElement(By.linkText(product));
+		webdriverutility.javascriptExecutorClick(driver, searchedProduct);
 
 		ProductDetailsPage productdetailspage = new ProductDetailsPage(driver);
 		webdriverutility.scrollIntoViewElement(driver, productdetailspage.getDescriptiontab());

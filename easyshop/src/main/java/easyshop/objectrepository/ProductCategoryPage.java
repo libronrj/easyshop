@@ -31,18 +31,12 @@ public class ProductCategoryPage {
 		PageFactory.initElements(driver, this);
 	}
 
-	@FindBy(xpath = "//a[contains(text(), 'iPhone')]")
-	private WebElement productlink;
-
 	@FindBy(css = "a.add-to-cart")
 	private WebElement wishlistButton;
 
 	@FindBy(xpath = "//button[text()='Add to cart']")
 	private List<WebElement> addToCartButtonList;
 
-	public void clickProductLink() {
-		productlink.click();
-	}
 
 	public WebElement getAddToCartButton() {
 		

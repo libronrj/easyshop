@@ -17,6 +17,7 @@
 			<class name="easyshop.ProductDescriptionTest" />
 			<class name="easyshop.AddProductToWishlistTest" />
 			<class name="easyshop.ProceedToCheckoutTest" />
+			<class name="easyshop.AdminAddAProductE2ETest" />
 		</classes>
 	</test> <!-- Test -->
 
@@ -30,6 +31,7 @@
 			<class name="easyshop.ProductDescriptionTest" />
 			<class name="easyshop.AddProductToWishlistTest" />
 			<class name="easyshop.ProceedToCheckoutTest" />
+			<class name="easyshop.AdminAddAProductE2ETest" />
 		</classes>
 	</test> <!-- Test -->
 

@@ -47,6 +47,9 @@ public class HomePage {
 	@FindBy(xpath = "//*[text()=' Furniture']")
 	private WebElement furnitureLink;
 	
+	@FindBy(xpath = "//*[@class = 'list-unstyled']//li[contains(., 'Admin Login')]")
+	private WebElement adminLoginButton;
+	
 	public void loginLinkClick() {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click()", loginLink);

@@ -17,7 +17,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 public class ExcelUtility {
 
 	private static ExcelUtility instance = null;
-	private static final String FILEPATH = "./src/main/resources/EasyShop_TestData.xlsx";
+	private static final String FILEPATH = "./src/test/resources/EasyShop_TestData.xlsx";
 
 	private ExcelUtility() {
 

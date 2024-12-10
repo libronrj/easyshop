@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="24" total="40" passed="16" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[===============Connected The Database===============]]>
@@ -8,10 +8,28 @@
       <![CDATA[===============Initiating  The Browser===============]]>
     </line>
     <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
       <![CDATA[===============Logged into Page===============]]>
     </line>
     <line>
-      <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Edit Profile Functionality===============]]>
     </line>
     <line>
       <![CDATA[===============Logged out of Page===============]]>
@@ -20,25 +38,300 @@
       <![CDATA[===============Terminated The Browser===============]]>
     </line>
     <line>
+      <![CDATA[=============== Validated Edit Profile Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Search Field Functionality Of A Category===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Search Field Functionality Of A Category===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Login Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Login Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Search Field Functionality Of A Product===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Search Field Functionality Of A Product===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Product Description Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[=============== Validated Product Description Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged into Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[Element is not available, it means that the wishlist is not empty]]>
+    </line>
+    <line>
+      <![CDATA[===============Validated the Add Product To Wishlist Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Initiating  The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[Element is not available, it means that the wishlist is not empty]]>
+    </line>
+    <line>
+      <![CDATA[===============Validated the Add Product To Wishlist Functionality===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Logged out of Page===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Terminated The Browser===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Validated Admin Add A Product And Availability For User===============]]>
+    </line>
+    <line>
+      <![CDATA[===============Validated Admin Add A Product And Availability For User===============]]>
+    </line>
+    <line>
       <![CDATA[===============Disconnected The Database===============]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-11-12T16:13:49 IST" name="Default suite" finished-at="2024-11-12T16:13:57 IST" duration-ms="8288">
+  <suite started-at="2024-11-26T13:54:34 IST" name="EasyShop ECommerce" finished-at="2024-11-26T13:55:26 IST" duration-ms="51270">
     <groups>
     </groups>
-    <test started-at="2024-11-12T16:13:49 IST" name="Default test" finished-at="2024-11-12T16:13:57 IST" duration-ms="8288">
-      <class name="easyshop.ProceedToCheckoutTest">
-        <test-method is-config="true" signature="setupSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:49 IST" name="setupSuite" finished-at="2024-11-12T16:13:49 IST" duration-ms="7" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[===============Connected The Database===============]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setupSuite -->
-        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:49 IST" name="setupClass" finished-at="2024-11-12T16:13:50 IST" duration-ms="847" status="PASS">
+    <test started-at="2024-11-26T13:54:34 IST" name="Test_Chrome" finished-at="2024-11-26T13:55:21 IST" duration-ms="46738">
+      <class name="easyshop.AdminAddAProductE2ETest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:easyshop.AdminAddAProductE2ETest@4ec4f3a0]" started-at="2024-11-26T13:55:02 IST" name="setupTest" finished-at="2024-11-26T13:55:02 IST" duration-ms="366" status="PASS">
           <params>
             <param index="0">
-              <value is-null="true"/>
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="adminAddAProductE2ETest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:easyshop.AdminAddAProductE2ETest@4ec4f3a0]" started-at="2024-11-26T13:55:03 IST" name="adminAddAProductE2ETest" data-provider="excelData" finished-at="2024-11-26T13:55:21 IST" duration-ms="18507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mobiles]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Samsung S22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[A flagship mobile with good camera setup and OLED display]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Out of Stock]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[/home/himanshu/Downloads/EasyShop/Samsung/download1.jpeg]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[/home/himanshu/Downloads/EasyShop/Samsung/download2.jpeg]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[/home/himanshu/Downloads/EasyShop/Samsung/download3.jpeg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Validated Admin Add A Product And Availability For User===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adminAddAProductE2ETest -->
+      </class> <!-- easyshop.AdminAddAProductE2ETest -->
+      <class name="easyshop.SearchFieldWithCategoryTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.SearchFieldWithCategoryTest@74fe5c40]" started-at="2024-11-26T13:54:34 IST" name="setupClass" finished-at="2024-11-26T13:54:36 IST" duration-ms="1307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
             </param>
           </params>
           <reporter-output>
@@ -47,42 +340,714 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupClass -->
-        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:50 IST" name="setupMethod" finished-at="2024-11-12T16:13:53 IST" duration-ms="2630" status="PASS">
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@74fe5c40]" started-at="2024-11-26T13:54:36 IST" name="setupMethod" finished-at="2024-11-26T13:54:41 IST" duration-ms="4832" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Logged into Page===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- setupMethod -->
-        <test-method signature="proceedToCheckoutTest()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:53 IST" name="proceedToCheckoutTest" finished-at="2024-11-12T16:13:56 IST" duration-ms="3349" status="PASS">
+        <test-method signature="searchFieldWithCategoryTest()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@74fe5c40]" started-at="2024-11-26T13:54:41 IST" name="searchFieldWithCategoryTest" finished-at="2024-11-26T13:54:43 IST" duration-ms="2446" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+              <![CDATA[=============== Validated Search Field Functionality Of A Category===============]]>
             </line>
           </reporter-output>
-        </test-method> <!-- proceedToCheckoutTest -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:56 IST" name="tearDownMethod" finished-at="2024-11-12T16:13:56 IST" duration-ms="327" status="PASS">
+        </test-method> <!-- searchFieldWithCategoryTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@74fe5c40]" started-at="2024-11-26T13:54:43 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:43 IST" duration-ms="248" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Logged out of Page===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:56 IST" name="tearDownClass" finished-at="2024-11-12T16:13:57 IST" duration-ms="1109" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@74fe5c40]" started-at="2024-11-26T13:54:43 IST" name="tearDownClass" finished-at="2024-11-26T13:54:43 IST" duration-ms="82" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Terminated The Browser===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:easyshop.ProceedToCheckoutTest@6a28ffa4]" started-at="2024-11-12T16:13:57 IST" name="tearDownSuite" finished-at="2024-11-12T16:13:57 IST" duration-ms="1" status="PASS">
+      </class> <!-- easyshop.SearchFieldWithCategoryTest -->
+      <class name="easyshop.AddProductToWishlistTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.AddProductToWishlistTest@6adbc9d]" started-at="2024-11-26T13:54:49 IST" name="setupClass" finished-at="2024-11-26T13:54:50 IST" duration-ms="533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.AddProductToWishlistTest@6adbc9d]" started-at="2024-11-26T13:54:50 IST" name="setupMethod" finished-at="2024-11-26T13:54:54 IST" duration-ms="4010" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="addProductToWishlistTest()[pri:0, instance:easyshop.AddProductToWishlistTest@6adbc9d]" started-at="2024-11-26T13:54:54 IST" name="addProductToWishlistTest" finished-at="2024-11-26T13:55:05 IST" duration-ms="11217" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Element is not available, it means that the wishlist is not empty]]>
+            </line>
+            <line>
+              <![CDATA[===============Validated the Add Product To Wishlist Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProductToWishlistTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.AddProductToWishlistTest@6adbc9d]" started-at="2024-11-26T13:55:05 IST" name="tearDownMethod" finished-at="2024-11-26T13:55:06 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.AddProductToWishlistTest@6adbc9d]" started-at="2024-11-26T13:55:06 IST" name="tearDownClass" finished-at="2024-11-26T13:55:06 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.AddProductToWishlistTest -->
+      <class name="easyshop.EditProfileTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.EditProfileTest@7f0eb4b4]" started-at="2024-11-26T13:54:34 IST" name="setupClass" finished-at="2024-11-26T13:54:36 IST" duration-ms="1306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.EditProfileTest@7f0eb4b4]" started-at="2024-11-26T13:54:36 IST" name="setupMethod" finished-at="2024-11-26T13:54:40 IST" duration-ms="4082" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="editProfileTest()[pri:0, instance:easyshop.EditProfileTest@7f0eb4b4]" started-at="2024-11-26T13:54:40 IST" name="editProfileTest" finished-at="2024-11-26T13:54:41 IST" duration-ms="1469" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Edit Profile Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editProfileTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.EditProfileTest@7f0eb4b4]" started-at="2024-11-26T13:54:41 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:42 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.EditProfileTest@7f0eb4b4]" started-at="2024-11-26T13:54:42 IST" name="tearDownClass" finished-at="2024-11-26T13:54:42 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.EditProfileTest -->
+      <class name="easyshop.SearchFieldWithProductTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.SearchFieldWithProductTest@1623b78d]" started-at="2024-11-26T13:54:43 IST" name="setupClass" finished-at="2024-11-26T13:54:44 IST" duration-ms="322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.SearchFieldWithProductTest@1623b78d]" started-at="2024-11-26T13:54:44 IST" name="setupMethod" finished-at="2024-11-26T13:54:48 IST" duration-ms="3953" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="searchFieldWithProductTest()[pri:0, instance:easyshop.SearchFieldWithProductTest@1623b78d]" started-at="2024-11-26T13:54:48 IST" name="searchFieldWithProductTest" finished-at="2024-11-26T13:54:49 IST" duration-ms="930" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Search Field Functionality Of A Product===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchFieldWithProductTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.SearchFieldWithProductTest@1623b78d]" started-at="2024-11-26T13:54:49 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:49 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.SearchFieldWithProductTest@1623b78d]" started-at="2024-11-26T13:54:49 IST" name="tearDownClass" finished-at="2024-11-26T13:54:49 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.SearchFieldWithProductTest -->
+      <class name="easyshop.LoginTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.LoginTest@5c33f1a9]" started-at="2024-11-26T13:54:42 IST" name="setupClass" finished-at="2024-11-26T13:54:42 IST" duration-ms="614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.LoginTest@5c33f1a9]" started-at="2024-11-26T13:54:42 IST" name="setupMethod" finished-at="2024-11-26T13:54:46 IST" duration-ms="3667" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="loginTest()[pri:0, instance:easyshop.LoginTest@5c33f1a9]" started-at="2024-11-26T13:54:46 IST" name="loginTest" finished-at="2024-11-26T13:54:46 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Login Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.LoginTest@5c33f1a9]" started-at="2024-11-26T13:54:46 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:46 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.LoginTest@5c33f1a9]" started-at="2024-11-26T13:54:46 IST" name="tearDownClass" finished-at="2024-11-26T13:54:47 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.LoginTest -->
+      <class name="easyshop.ProceedToCheckoutTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProceedToCheckoutTest@4550bb58]" started-at="2024-11-26T13:54:53 IST" name="setupClass" finished-at="2024-11-26T13:54:54 IST" duration-ms="390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@4550bb58]" started-at="2024-11-26T13:54:54 IST" name="setupMethod" finished-at="2024-11-26T13:54:56 IST" duration-ms="2789" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="proceedToCheckoutTest()[pri:0, instance:easyshop.ProceedToCheckoutTest@4550bb58]" started-at="2024-11-26T13:54:56 IST" name="proceedToCheckoutTest" finished-at="2024-11-26T13:55:01 IST" duration-ms="4764" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckoutTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@4550bb58]" started-at="2024-11-26T13:55:01 IST" name="tearDownMethod" finished-at="2024-11-26T13:55:02 IST" duration-ms="689" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProceedToCheckoutTest@4550bb58]" started-at="2024-11-26T13:55:02 IST" name="tearDownClass" finished-at="2024-11-26T13:55:02 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.ProceedToCheckoutTest -->
+      <class name="easyshop.ProductDescriptionTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProductDescriptionTest@c8c12ac]" started-at="2024-11-26T13:54:47 IST" name="setupClass" finished-at="2024-11-26T13:54:47 IST" duration-ms="411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProductDescriptionTest@c8c12ac]" started-at="2024-11-26T13:54:47 IST" name="setupMethod" finished-at="2024-11-26T13:54:51 IST" duration-ms="4426" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="productDescriptionTest()[pri:0, instance:easyshop.ProductDescriptionTest@c8c12ac]" started-at="2024-11-26T13:54:51 IST" name="productDescriptionTest" finished-at="2024-11-26T13:54:53 IST" duration-ms="1234" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Product Description Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- productDescriptionTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProductDescriptionTest@c8c12ac]" started-at="2024-11-26T13:54:53 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:53 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProductDescriptionTest@c8c12ac]" started-at="2024-11-26T13:54:53 IST" name="tearDownClass" finished-at="2024-11-26T13:54:53 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.ProductDescriptionTest -->
+    </test> <!-- Test_Chrome -->
+    <test started-at="2024-11-26T13:54:34 IST" name="Test_Edge" finished-at="2024-11-26T13:55:26 IST" duration-ms="51270">
+      <class name="easyshop.AdminAddAProductE2ETest">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:easyshop.AdminAddAProductE2ETest@5656be13]" started-at="2024-11-26T13:55:07 IST" name="setupTest" finished-at="2024-11-26T13:55:08 IST" duration-ms="442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="adminAddAProductE2ETest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:easyshop.AdminAddAProductE2ETest@5656be13]" started-at="2024-11-26T13:55:08 IST" name="adminAddAProductE2ETest" data-provider="excelData" finished-at="2024-11-26T13:55:26 IST" duration-ms="17718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mobiles]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Samsung S22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[40000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[A flagship mobile with good camera setup and OLED display]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Out of Stock]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[/home/himanshu/Downloads/EasyShop/Samsung/download1.jpeg]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[/home/himanshu/Downloads/EasyShop/Samsung/download2.jpeg]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[/home/himanshu/Downloads/EasyShop/Samsung/download3.jpeg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Validated Admin Add A Product And Availability For User===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adminAddAProductE2ETest -->
+      </class> <!-- easyshop.AdminAddAProductE2ETest -->
+      <class name="easyshop.AddProductToWishlistTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.AddProductToWishlistTest@3270d194]" started-at="2024-11-26T13:54:52 IST" name="setupClass" finished-at="2024-11-26T13:54:52 IST" duration-ms="735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.AddProductToWishlistTest@3270d194]" started-at="2024-11-26T13:54:52 IST" name="setupMethod" finished-at="2024-11-26T13:54:56 IST" duration-ms="3978" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="addProductToWishlistTest()[pri:0, instance:easyshop.AddProductToWishlistTest@3270d194]" started-at="2024-11-26T13:54:56 IST" name="addProductToWishlistTest" finished-at="2024-11-26T13:55:08 IST" duration-ms="11621" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Element is not available, it means that the wishlist is not empty]]>
+            </line>
+            <line>
+              <![CDATA[===============Validated the Add Product To Wishlist Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProductToWishlistTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.AddProductToWishlistTest@3270d194]" started-at="2024-11-26T13:55:08 IST" name="tearDownMethod" finished-at="2024-11-26T13:55:08 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.AddProductToWishlistTest@3270d194]" started-at="2024-11-26T13:55:08 IST" name="tearDownClass" finished-at="2024-11-26T13:55:09 IST" duration-ms="1077" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.AddProductToWishlistTest -->
+      <class name="easyshop.SearchFieldWithCategoryTest">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:54:34 IST" name="setupSuite" finished-at="2024-11-26T13:54:34 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Connected The Database===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:54:34 IST" name="setupClass" finished-at="2024-11-26T13:54:36 IST" duration-ms="1306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:54:36 IST" name="setupMethod" finished-at="2024-11-26T13:54:41 IST" duration-ms="5294" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="searchFieldWithCategoryTest()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:54:41 IST" name="searchFieldWithCategoryTest" finished-at="2024-11-26T13:54:43 IST" duration-ms="1572" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Search Field Functionality Of A Category===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchFieldWithCategoryTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:54:43 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:43 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:54:43 IST" name="tearDownClass" finished-at="2024-11-26T13:54:44 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:easyshop.SearchFieldWithCategoryTest@a1153bc]" started-at="2024-11-26T13:55:26 IST" name="tearDownSuite" finished-at="2024-11-26T13:55:26 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[===============Disconnected The Database===============]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDownSuite -->
+      </class> <!-- easyshop.SearchFieldWithCategoryTest -->
+      <class name="easyshop.EditProfileTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.EditProfileTest@1aafa419]" started-at="2024-11-26T13:54:34 IST" name="setupClass" finished-at="2024-11-26T13:54:36 IST" duration-ms="1307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.EditProfileTest@1aafa419]" started-at="2024-11-26T13:54:36 IST" name="setupMethod" finished-at="2024-11-26T13:54:41 IST" duration-ms="5251" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="editProfileTest()[pri:0, instance:easyshop.EditProfileTest@1aafa419]" started-at="2024-11-26T13:54:41 IST" name="editProfileTest" finished-at="2024-11-26T13:54:42 IST" duration-ms="1227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Edit Profile Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editProfileTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.EditProfileTest@1aafa419]" started-at="2024-11-26T13:54:42 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:43 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.EditProfileTest@1aafa419]" started-at="2024-11-26T13:54:43 IST" name="tearDownClass" finished-at="2024-11-26T13:54:44 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.EditProfileTest -->
+      <class name="easyshop.SearchFieldWithProductTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.SearchFieldWithProductTest@55141def]" started-at="2024-11-26T13:54:44 IST" name="setupClass" finished-at="2024-11-26T13:54:45 IST" duration-ms="683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.SearchFieldWithProductTest@55141def]" started-at="2024-11-26T13:54:45 IST" name="setupMethod" finished-at="2024-11-26T13:54:49 IST" duration-ms="4429" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="searchFieldWithProductTest()[pri:0, instance:easyshop.SearchFieldWithProductTest@55141def]" started-at="2024-11-26T13:54:49 IST" name="searchFieldWithProductTest" finished-at="2024-11-26T13:54:50 IST" duration-ms="871" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Search Field Functionality Of A Product===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchFieldWithProductTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.SearchFieldWithProductTest@55141def]" started-at="2024-11-26T13:54:50 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:50 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.SearchFieldWithProductTest@55141def]" started-at="2024-11-26T13:54:50 IST" name="tearDownClass" finished-at="2024-11-26T13:54:52 IST" duration-ms="1085" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.SearchFieldWithProductTest -->
+      <class name="easyshop.LoginTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.LoginTest@47eaca72]" started-at="2024-11-26T13:54:44 IST" name="setupClass" finished-at="2024-11-26T13:54:44 IST" duration-ms="562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.LoginTest@47eaca72]" started-at="2024-11-26T13:54:44 IST" name="setupMethod" finished-at="2024-11-26T13:54:48 IST" duration-ms="3695" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="loginTest()[pri:0, instance:easyshop.LoginTest@47eaca72]" started-at="2024-11-26T13:54:48 IST" name="loginTest" finished-at="2024-11-26T13:54:48 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Login Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.LoginTest@47eaca72]" started-at="2024-11-26T13:54:48 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:48 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.LoginTest@47eaca72]" started-at="2024-11-26T13:54:48 IST" name="tearDownClass" finished-at="2024-11-26T13:54:49 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.LoginTest -->
+      <class name="easyshop.ProceedToCheckoutTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProceedToCheckoutTest@235834f2]" started-at="2024-11-26T13:54:57 IST" name="setupClass" finished-at="2024-11-26T13:54:58 IST" duration-ms="632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@235834f2]" started-at="2024-11-26T13:54:58 IST" name="setupMethod" finished-at="2024-11-26T13:55:02 IST" duration-ms="3568" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="proceedToCheckoutTest()[pri:0, instance:easyshop.ProceedToCheckoutTest@235834f2]" started-at="2024-11-26T13:55:02 IST" name="proceedToCheckoutTest" finished-at="2024-11-26T13:55:06 IST" duration-ms="3923" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Validated The Proceed To Checkout Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckoutTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProceedToCheckoutTest@235834f2]" started-at="2024-11-26T13:55:06 IST" name="tearDownMethod" finished-at="2024-11-26T13:55:06 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProceedToCheckoutTest@235834f2]" started-at="2024-11-26T13:55:06 IST" name="tearDownClass" finished-at="2024-11-26T13:55:07 IST" duration-ms="1101" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
       </class> <!-- easyshop.ProceedToCheckoutTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="easyshop.ProductDescriptionTest">
+        <test-method is-config="true" signature="setupClass(java.lang.String)[pri:0, instance:easyshop.ProductDescriptionTest@55182842]" started-at="2024-11-26T13:54:49 IST" name="setupClass" finished-at="2024-11-26T13:54:50 IST" duration-ms="753" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[===============Initiating  The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:easyshop.ProductDescriptionTest@55182842]" started-at="2024-11-26T13:54:50 IST" name="setupMethod" finished-at="2024-11-26T13:54:54 IST" duration-ms="4015" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged into Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="productDescriptionTest()[pri:0, instance:easyshop.ProductDescriptionTest@55182842]" started-at="2024-11-26T13:54:54 IST" name="productDescriptionTest" finished-at="2024-11-26T13:54:56 IST" duration-ms="1834" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=============== Validated Product Description Functionality===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- productDescriptionTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:easyshop.ProductDescriptionTest@55182842]" started-at="2024-11-26T13:54:56 IST" name="tearDownMethod" finished-at="2024-11-26T13:54:56 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Logged out of Page===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:easyshop.ProductDescriptionTest@55182842]" started-at="2024-11-26T13:54:56 IST" name="tearDownClass" finished-at="2024-11-26T13:54:57 IST" duration-ms="1078" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[===============Terminated The Browser===============]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- easyshop.ProductDescriptionTest -->
+    </test> <!-- Test_Edge -->
+  </suite> <!-- EasyShop ECommerce -->
 </testng-results>

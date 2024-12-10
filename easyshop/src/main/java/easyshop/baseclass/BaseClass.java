@@ -34,7 +34,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 
-	public WebDriver driver = null;
+	public WebDriver driver;
 	public static PropertiesUtility properties = PropertiesUtility.getInstance();
 	public static JavaUtility javautility = JavaUtility.getInstance();
 	public static WebDriverUtility webdriverutility = WebDriverUtility.getInstance();
@@ -57,15 +57,11 @@ public class BaseClass {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions chromeOptions = new ChromeOptions();
 			chromeOptions.addArguments("--headless"); // Enable headless mode
-			chromeOptions.addArguments("--no-sandbox"); // Bypass OS security model
-			chromeOptions.addArguments("--disable-dev-shm-usage"); // Overcome limited resource problems
 			driver = new ChromeDriver(chromeOptions);
 			break;
 		case "edge":	
 			EdgeOptions edgeOptions = new EdgeOptions();
 	        edgeOptions.addArguments("--headless"); // Enable headless mode
-	        edgeOptions.addArguments("--no-sandbox"); // Bypass OS security model
-	        edgeOptions.addArguments("--disable-dev-shm-usage"); // Overcome limited resource problems
 			driver = new EdgeDriver(edgeOptions);
 			break;
 		default:
@@ -108,14 +104,12 @@ public class BaseClass {
 
 	@AfterClass
 	public void tearDownClass() {
-
 		driver.quit();
 		Reporter.log("===============Terminated The Browser===============");
 	}
 
 	@AfterSuite
 	public void tearDownSuite() {
-
 		Reporter.log("===============Disconnected The Database===============");
 	}
 
